@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RedRam567
 - 👀 I’m interested in Linux, Rust, automation, gaming, and modding
-- 🌱 I’m currently learning Rust
-- 🧠 I have experience in Bash, Javascript, Java, AutoHotkey, and Ti-Basic
+<!--- - 🌱 I’m currently learning Rust --->
+- 🧠 I have experience in Rust, Bash, Javascript, AutoHotkey, and Ti-Basic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://steamcommunity.com/id/TheRedRam/
 
